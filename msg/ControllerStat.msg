@@ -1,0 +1,15 @@
+std_msgs/Header header
+bool controller_state
+int16 km_autonomous
+bool estop_stat
+bool left_blinker
+bool right_blinker
+bool low_beams
+bool reverse_travel
+bool seat_switch
+bool cmd_park
+bool brake_lights
+int8 soc
+int8 km_driven
+int8 range_remaining
+int8 speed
