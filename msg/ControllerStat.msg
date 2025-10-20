@@ -1,5 +1,5 @@
 std_msgs/Header header
-bool controller_state
+int8 controller_state
 int16 km_autonomous
 bool estop_stat
 bool left_blinker
